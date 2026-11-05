@@ -2,7 +2,7 @@
 
 Markov-chain models and a discrete-event simulation of a single crane that moves containers between automated guided vehicles (AGVs) and trailers, set at the Port of Rotterdam.
 
-**TU/e · Stochastic Processes (2WB20) · Apr 2024 – Jul 2024**
+**Stochastic Processes · Apr 2024 – Jul 2024**
 
 <!-- REPORT_LINK -->
 
